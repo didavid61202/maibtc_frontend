@@ -14,13 +14,13 @@
       <form id="login-form" class="my-8 flex flex-col">
         <input
           id="email"
-          type="text"
+          type="email"
           class="px-3 py-2 mx-6 my-4 border border-neutral border-opacity-50"
           placeholder="輸入電子郵件或手機號碼"
         />
         <input
-          id="email"
-          type="text"
+          id="password"
+          type="password"
           class="px-3 py-2 mx-6 my-2 border border-neutral border-opacity-50"
           placeholder="請輸入密碼"
         />
